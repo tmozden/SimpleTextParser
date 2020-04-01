@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define SimpleTextParser_VERSION_MAJOR @SimpleTextParser_VERSION_MAJOR@
+#define SimpleTextParser_VERSION_MINOR @SimpleTextParser_VERSION_MINOR@
